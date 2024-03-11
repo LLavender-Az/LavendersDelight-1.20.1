@@ -1,2 +1,14 @@
 release 0.1
-add various apothecary pouches which 
+
+- add various apothecary pouches which are edible pouches of flower powders and ingredients
+
+- adds various mythological plants of paganism/fae mythology with Mythos tool tips
+
+- throwable ampules made of glass that can be filled with wither/poison powder or harming powder, similar to splash potions
+- check splash potion item class 
+- gives range fights a little more variety early in the game
+
+- port flower crown from lucky clover to apothecary
+- port bluebell from lucky clover to apothecary
+
+- make tags and item classes for a variety of combinations of effects like heal + speed to run away and and recover, or slowness + strength II to defeat a stronger enemy
