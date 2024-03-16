@@ -1,14 +1,14 @@
-release 0.1
+release 1.0
 
-- add various apothecary pouches which are edible pouches of flower powders and ingredients
+- update wild_blossom texture
 
-- adds various mythological plants of paganism/fae mythology with Mythos tool tips
+- make loot table for wild_blossom
+		(drops itself when mined with shears, drops flowering_blossom when picked at maturity)
+		(at maturity when broken, drops white_azalea & flowering_blossom) 
 
-- throwable ampules made of glass that can be filled with wither/poison powder or harming powder, similar to splash potions
-- check splash potion item class 
-- gives range fights a little more variety early in the game
+- wild blossom will be similar to sweet berry bushes
 
-- port flower crown from lucky clover to apothecary
-- port bluebell from lucky clover to apothecary
+- white_azalea can be potted
+- white_azalea can be made into white dye
+-
 
-- make tags and item classes for a variety of combinations of effects like heal + speed to run away and and recover, or slowness + strength II to defeat a stronger enemy
