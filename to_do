@@ -7,8 +7,23 @@ release 1.0
 		(at maturity when broken, drops white_azalea & flowering_blossom) 
 
 - wild blossom will be similar to sweet berry bushes
+- wild blossom maturity under 4 will drop root tuber that can be cooked in a furnace, smoker & campfire
 
 - white_azalea can be potted
 - white_azalea can be made into white dye
--
 
+- iron_rich_gravel will drop gravel, and a normal chance of flint and a small chance of 3-9 iron nuggets
+- iron_rich_gravel can be traded to blacksmith villagers for flint and iron nuggets
+
+- cheese_wheel can be made from 4 #milk and 2 salt in a cooking pot
+- cheese_wedge can be cut from a cheese_wheel
+- cheese_n_fruits can be made with 1 cheese_wedge, 2 sweet_berries, & 1 melon_slice
+		(restores 8 hunger bars & 0.45 saturation)
+
+- halite can replace stone and will drop 2-5 salt and 3-7 xp
+- halite blocks can be acquired with silk touch 
+
+- salted_raw_meat is a food item made from 1 raw_beef + 1 salt
+- salted_meat can be made by smoking salted_raw_beef
+		(restores 8 hunger bars & 0.5 saturation)
+		(provides player with 15 seconds of strength I)
