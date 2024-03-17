@@ -27,3 +27,6 @@ release 1.0
 - salted_meat can be made by smoking salted_raw_beef
 		(restores 8 hunger bars & 0.5 saturation)
 		(provides player with 15 seconds of strength I)
+
+- put particle of cheese_wheel in json file
+- make gravel iron ore be affected by fortune on shovels, drops more iron nuggets and flint
