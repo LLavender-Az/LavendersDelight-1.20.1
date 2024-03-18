@@ -31,7 +31,9 @@ release 1.0
 - put particle of cheese_wheel in json file
 - make gravel iron ore be affected by fortune on shovels, drops more iron nuggets and flint
 - if peach tree, make sapling peach pit | NOT dropped from leaves but cut from the peach itself/eaten 
-- 
+- make mint potted
+- create loot table for mint crop
+- make mint wild and give growing stages similar to the wild blossom
 
 
 
