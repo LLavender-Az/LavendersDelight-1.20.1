@@ -35,12 +35,15 @@ release 1.0
 - mint can be potted and looks like the wild variant
 - mint can be brewed into mint tea which clears potion effects
 
+- peach_leaves drop ONLY peaches, peach trees can only be planted with with peach pits
+= 
+
 
 - put particle of cheese_wheel in json file
 - make gravel iron ore be affected by fortune on shovels, drops more iron nuggets and flint
 - if peach tree, make sapling peach pit | NOT dropped from leaves but cut from the peach itself/eaten 
 - create loot table for mint crop
-- make mint wild and give growing stages similar to the wild blossom
+- 
 
 
 
